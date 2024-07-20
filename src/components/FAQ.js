@@ -1,4 +1,3 @@
-// src/components/FAQ.js
 import React from 'react';
 import { Box, Typography, Grid, Card, CardContent } from '@mui/material';
 
@@ -16,7 +15,7 @@ const FAQ = () => {
                 1: How do I refer a friend?
               </Typography>
               <Typography sx={{ mb: 2 }}>
-                To refer a friend, simply click the "Refer Now" button on this page. A form will pop up where you can enter your details and your friend's details. Once you submit the form, your friend will receive an invitation to join.
+                To refer a friend, simply click the "Refer Now" button on this page. A form will pop up where you can enter your details and your friend's details.  Once you submit the form, your friend will receive an invitation to join.
               </Typography>
             </CardContent>
           </Card>

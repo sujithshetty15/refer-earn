@@ -6,7 +6,7 @@ import Benefits from './components/Benefits';
 import FAQ from './components/FAQ';
 import Footer from './components/Footer';
 import ReferModal from './components/ReferModal';
-import backgroundImage from './assets/refer2.jpeg'; // Update this path
+import backgroundImage from './assets/refer2.jpeg';
 
 const theme = createTheme();
 

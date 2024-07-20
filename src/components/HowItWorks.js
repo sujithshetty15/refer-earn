@@ -1,4 +1,3 @@
-// src/components/HowItWorks.js
 import React from 'react';
 import { Box, Typography, Grid, Card, CardContent } from '@mui/material';
 import ArrowForwardIcon from '@mui/icons-material/ArrowForward';

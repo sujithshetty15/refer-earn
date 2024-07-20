@@ -1,4 +1,4 @@
-// src/components/Benefits.js
+
 import React from 'react';
 import { Box, Typography,Button,Table,Paper, TableBody, TableCell, TableContainer, TableHead, TableRow, } from '@mui/material';
 
