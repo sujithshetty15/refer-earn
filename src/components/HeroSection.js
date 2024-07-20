@@ -17,7 +17,7 @@ const HeroSection = ({ handleOpen }) => {
         Let's Learn & Earn
       </Typography>
       <Typography variant="h5" gutterBottom>
-        Get a chance to win up to Rs. 15,000
+        Get a chance to win up to Rs.15,000
       </Typography>
       <Button variant="contained" color="primary" onClick={handleOpen}>
         Refer Now

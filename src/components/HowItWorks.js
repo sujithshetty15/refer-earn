@@ -10,7 +10,7 @@ const steps = [
   },
   {
     title: 'Step 2',
-    description: 'They register and learn',
+    description: 'They register and learn concepts',
     icon: <ArrowForwardIcon sx={{ fontSize: 50, color: '#007BFF' }} />,
   },
   {

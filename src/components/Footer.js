@@ -20,10 +20,10 @@ const Footer = () => {
             Contact Us
           </Typography>
           <Typography variant="body2">
-            Email: support@refery.com
+            Email: 2024@refery.com
           </Typography>
           <Typography variant="body2">
-            Phone: +1 234 567 890
+            Phone: +1234 567 890
           </Typography>
         </Box>
         <Box mt={4} textAlign="center">

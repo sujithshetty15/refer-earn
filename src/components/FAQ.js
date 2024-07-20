@@ -12,10 +12,10 @@ const FAQ = () => {
           <Card sx={{ minHeight: '150px' }}>
             <CardContent>
               <Typography sx={{ mb: 2 }}>
-                1: How do I refer a friend?
+                1: How do I refer my friends?
               </Typography>
               <Typography sx={{ mb: 2 }}>
-                To refer a friend, simply click the "Refer Now" button on this page. A form will pop up where you can enter your details and your friend's details.  Once you submit the form, your friend will receive an invitation to join.
+                To refer friends, simply click the "Refer Now" button on this page. A form will pop up where you can enter your details and your friend's details.  Once you submit the form, your friend will receive an invitation to join.
               </Typography>
             </CardContent>
           </Card>
