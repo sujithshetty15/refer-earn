@@ -20,7 +20,7 @@ const Benefits = ({ handleOpen }) => {
               What Are The Referral Benefits?
             </Typography>
             <Box sx={{ display: 'flex', justifyContent: 'space-between', mb: 2 }}>
-              <Typography variant="h6">Programs</Typography>
+              <Typography variant="h6">Programs Available</Typography>
             </Box>
             <TableContainer component={Paper}>
               <Table>
